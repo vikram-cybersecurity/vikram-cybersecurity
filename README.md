@@ -1,21 +1,33 @@
-```md
-# 👨‍💻 Vikram P
 
-### Cybersecurity Researcher | Ethical Hacker | Secure Systems Developer
+<h1 align="center">👨‍💻 Vikram P</h1>
 
-> “Building secure systems, resilient authentication architectures, and next-generation cybersecurity solutions.”
+<h3 align="center">
+Cybersecurity Researcher • Ethical Hacker • Secure Systems Developer
+</h3>
+
+<p align="center">
+Building secure systems, resilient authentication architectures, and next-generation cybersecurity solutions.
+</p>
 
 ---
 
 ## 🚀 About Me
 
-I am a Pre-Final Year B.E. Cyber Security student at SKP Engineering College affiliated with Anna University. Passionate about cybersecurity research, ethical hacking, secure application development, digital forensics, and advanced authentication systems.
+🎓 Pre-Final Year B.E. Cyber Security Student at **SKP Engineering College** affiliated with **Anna University**.
 
-I focus on practical cybersecurity implementations, real-world attack and defense simulations, and innovative security architectures.
+🔐 Passionate about:
+- Cybersecurity Research
+- Ethical Hacking
+- Secure Application Development
+- Digital Forensics
+- Authentication Systems
+- AI-Assisted Security Solutions
+
+⚡ Focused on building practical security systems, real-world attack & defense simulations, and advanced authentication architectures.
 
 ---
 
-## 🔐 Core Domains
+# 🔐 Core Domains
 
 - Ethical Hacking & Penetration Testing
 - Network Security
@@ -29,126 +41,141 @@ I focus on practical cybersecurity implementations, real-world attack and defens
 
 ---
 
-## 🛠️ Technical Skills
+# 🛠️ Technical Skills
 
-### Programming & Development
-- Python
-- Bash
-- Java
-- C / C++
-- HTML, CSS, JavaScript
+## 💻 Programming & Development
+```bash
+Python • Bash • Java • C/C++ • HTML • CSS • JavaScript
+````
 
-### Security Tools & Platforms
-- Wireshark
-- Burp Suite
-- Nmap
-- Wazuh
-- Metasploit
-- Nessus
-- Linux Security Tools
+## 🧰 Security Tools & Platforms
 
-### Areas of Expertise
-- OWASP Top 10
-- Cryptography
-- Secure Authentication
-- Network Monitoring
-- Threat Detection
-- SIEM & Log Analysis
+```bash
+Wireshark • Burp Suite • Nmap • Wazuh • Metasploit • Nessus
+```
+
+## 🧠 Areas of Expertise
+
+```bash
+OWASP Top 10 • Cryptography • SIEM • Threat Detection
+Secure Authentication • Network Monitoring
+```
 
 ---
 
 # 📌 Featured Projects
 
 ## 🔷 AVIS — Authenticated Visual Identity System
-Advanced visual authentication and identity verification system designed for secure pattern encoding, resilient scanning, and tamper-resistant authentication workflows.
 
-### Features
-- ECC-based recovery mechanisms
-- Secure visual pattern architecture
-- Intelligent scanning workflows
-- Authentication-focused encoding system
+Advanced visual authentication and identity verification system designed for:
+
+* Secure Pattern Encoding
+* ECC-Based Recovery
+* Intelligent Scanning Workflows
+* Tamper-Resistant Authentication
+* Authentication-Focused Encoding Systems
 
 ---
 
 ## 🔷 SAVC — Secure Adaptive Visual Code
-Experimental secure visual code framework focused on adaptive decoding, resilient data extraction, and robust visual authentication systems.
 
-### Features
-- Adaptive pattern decoding
-- Distortion-resistant scanning
-- Smart reconstruction pipeline
-- Secure data embedding
+Experimental secure visual code framework focused on:
+
+* Adaptive Pattern Decoding
+* Distortion-Resistant Scanning
+* Smart Reconstruction Pipeline
+* Secure Data Embedding
+* Intelligent Visual Authentication
 
 ---
 
 ## 🔷 Cybersecurity Practical Toolkit
-Collection of cybersecurity scripts, practical implementations, penetration testing utilities, and security automation experiments.
 
-### Includes
-- Network analysis tools
-- Vulnerability testing scripts
-- Security automation workflows
-- Educational cybersecurity implementations
+Collection of:
+
+* Penetration Testing Utilities
+* Security Automation Scripts
+* Vulnerability Assessment Tools
+* Network Analysis Implementations
+* Educational Cybersecurity Projects
 
 ---
 
 # 🎯 Current Focus
 
-- Secure Authentication Architectures
-- AI-Powered Cybersecurity Systems
-- Security Research & Development
-- Government Cybercrime Career Preparation
-- Open Source Security Projects
+* Secure Authentication Architectures
+* AI-Powered Cybersecurity Systems
+* Security Research & Development
+* Government Cybercrime Career Preparation
+* Open Source Security Projects
 
 ---
 
 # 📚 Education
 
-### 🎓 SKP Engineering College
-**B.E. Cyber Security**  
-Affiliated to Anna University  
-Pre-Final Year Student
+## 🎓 SKP Engineering College
+
+### B.E. Cyber Security
+
+Affiliated to Anna University
+
+📍 Pre-Final Year Student
 
 ---
 
-# 🌐 Portfolio & Links
+# 🌐 Portfolio & Profiles
 
 ## 🔗 Portfolio Website
-https://vvikram61890-cpu.github.io/vikram-Profile/
+
+[Portfolio Website](https://vvikram61890-cpu.github.io/vikram-Profile/)
 
 ## 🔗 GitHub Profile
-https://github.com/vikram-cybersecurity
+
+[GitHub Profile](https://github.com/vikram-cybersecurity)
 
 ---
 
-# 📈 Goals
+# 📈 Career Goals
 
-- Contribute to Cybercrime Investigation
-- Work in Government Cybersecurity Operations
-- Build Innovative Security Technologies
-- Develop Advanced Authentication Systems
-- Contribute to Open Source Security Research
+* Contribute to Cybercrime Investigation
+* Work in Government Cybersecurity Operations
+* Build Innovative Security Technologies
+* Develop Advanced Authentication Systems
+* Contribute to Open Source Security Research
 
 ---
 
-# ⚡ GitHub Stats
+# ⚡ GitHub Focus Areas
 
+```yaml
 - Cybersecurity Projects
 - Security Research
 - Authentication Systems
 - Open Source Contributions
 - Secure Development
+```
 
 ---
 
 # 📬 Contact
 
-- GitHub: https://github.com/vikram-cybersecurity
-- Portfolio: https://vvikram61890-cpu.github.io/vikram-Profile/
+## GitHub
+
+https://github.com/vikram-cybersecurity
+
+## Portfolio
+
+https://vvikram61890-cpu.github.io/vikram-Profile/
 
 ---
 
-## 🔒 Motto
+# 🔒 Motto
 
-> “Security is not just protection — it is intelligent resilience.”
+> Security is not just protection — it is intelligent resilience.
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00D4FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Researcher;Ethical+Hacker;Secure+Systems+Developer;Open+Source+Security+Projects" />
+</p>
 ```
